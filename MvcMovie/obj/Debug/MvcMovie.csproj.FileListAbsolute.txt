@@ -1,0 +1,174 @@
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\MvcMovie.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.AspNet.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.Core.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OAuth.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OpenId.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\EntityFramework.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Microsoft.Data.Edm.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Microsoft.Data.OData.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Net.Http.Formatting.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Spatial.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Http.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Http.OData.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Http.WebHost.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\WebGrease.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\WebMatrix.Data.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\WebMatrix.WebData.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\EntityFramework.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Net.Http.Formatting.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Http.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Http.WebHost.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\WebMatrix.Data.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\WebMatrix.WebData.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.AspNet.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.Core.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OAuth.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OpenId.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Web.Http.OData.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Microsoft.Data.Edm.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\Microsoft.Data.OData.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\System.Spatial.xml
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\de\Microsoft.Data.OData.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\es\Microsoft.Data.OData.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\it\Microsoft.Data.OData.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\de\System.Spatial.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\es\System.Spatial.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\fr\System.Spatial.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\it\System.Spatial.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\ja\System.Spatial.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\ko\System.Spatial.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\ru\System.Spatial.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\zh-Hans\System.Spatial.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\bin\zh-Hant\System.Spatial.resources.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+E:\Employee Management Service\Final\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\MvcMovie.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.Core.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\EntityFramework.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Microsoft.Data.Edm.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Microsoft.Data.OData.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Net.Http.Formatting.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Spatial.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Http.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Http.OData.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Http.WebHost.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\WebGrease.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\WebMatrix.Data.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\WebMatrix.WebData.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\EntityFramework.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Net.Http.Formatting.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Http.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Http.WebHost.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\WebMatrix.Data.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\WebMatrix.WebData.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.Core.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Web.Http.OData.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Microsoft.Data.Edm.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\Microsoft.Data.OData.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\System.Spatial.xml
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\de\System.Spatial.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\es\System.Spatial.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\fr\System.Spatial.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\it\System.Spatial.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\ja\System.Spatial.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\ko\System.Spatial.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\ru\System.Spatial.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.AddRatingMig.resources
+C:\Users\sshinde\Desktop\MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.AddDataAnnotationsMig.resources
